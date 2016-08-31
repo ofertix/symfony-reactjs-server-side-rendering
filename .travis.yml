@@ -1,0 +1,8 @@
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker run -it -w /app -v $PWD:/app letsbonus/php-dev:7.0 composer install -n
+  - docker run -it -w /app -v $PWD:/app letsbonus/php-dev:7.0 vendor/bin/phpunit
