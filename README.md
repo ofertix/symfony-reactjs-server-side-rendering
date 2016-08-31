@@ -1,5 +1,3 @@
-https://github.com/jorge07/symfony3-docker-starter
-
 Symfony3 Reactjs Server Side Rendering
 ===========
 
@@ -16,4 +14,4 @@ https://github.com/qpautrat/reactjs-php-bundle
 https://github.com/hddbogdan/react-integration-bundle
 https://github.com/tystr/TystrReactJsBundle
 
-
+[Ready to start](https://github.com/jorge07/symfony3-docker-starter)
